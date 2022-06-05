@@ -59,9 +59,8 @@ I love learning,working with spreedsheets and sharing knowledge and putting it o
 <!--START_SECTION:waka-->
 
 ```text
-HTML         3 hrs 49 mins   ████████████████████▓░░░░   82.65 %
-CSS          47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+HTML   1 hr 30 mins    ███████████████████████░░   92.07 %
+CSS    7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 ```
 
 <!--END_SECTION:waka-->
