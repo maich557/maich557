@@ -1,6 +1,6 @@
-## Hi I'm Anthony Maina 👋.
+## Hi I'm Anthony Maina.
 
-I'm Anthony Maina a self motivated Full Stack Web Developer and Google Sheet Expert. I Spend most of time coding outstanding projects, learning New and Mordern Technologies or working on Spreadsheets.
+I'm Anthony Maina a Full Stack Web Developer and Google Sheet Expert. I Spend most of time creating outstanding projects, learning New and Mordern Technologies or working on Spreadsheets.
 
 :mailbox: Reach me out!
 
