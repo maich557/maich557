@@ -59,7 +59,9 @@ I love learning,working with spreedsheets and sharing knowledge and putting it o
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C          10 mins         █████████████████░░░░░░░░   67.79 %
+Makefile   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+Text       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 ```
 
 <!--END_SECTION:waka-->
