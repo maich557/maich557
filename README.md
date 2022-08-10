@@ -59,12 +59,7 @@ I love learning,working with spreedsheets and sharing knowledge and putting it o
 <!--START_SECTION:waka-->
 
 ```text
-Properties   17 mins         ████████████░░░░░░░░░░░░░   48.56 %
-Java         8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-Batchfile    6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-YAML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
